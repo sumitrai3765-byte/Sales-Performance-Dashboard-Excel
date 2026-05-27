@@ -1,5 +1,5 @@
 # Sales Performance Dashboard — Excel
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](Dashboard_screenshot.png)
 
 ## Project Overview
 An interactive Sales Analytics Dashboard built in Microsoft Excel
